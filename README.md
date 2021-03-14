@@ -6,5 +6,6 @@ Hi! Nice to meet you! 🧐
 ## Intro
 - 💻 Linux Mint user
 - 📱 Android user
-- 🔭 I'm currently working on building custom rom UMIDIGI A5 Pro and Xiaomi K30 5G
+- 🔭 I'm currently working on building custom rom UMIDIGI A5 Pro
+- 🔭 I'm currently working on building custom rom Xiaomi K30 5G
 - 🤔 I'm need help building custom kernels
