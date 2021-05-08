@@ -6,6 +6,5 @@ Hi! Nice to meet you! :nerd_face:
 ## Intro
 - :man_technologist: Linux Mint user
 - :calling: Android user
-- :atom: I'm currently working on building custom rom UMIDIGI A5 Pro
 - :electron: I'm currently working on building custom rom Xiaomi K30 5G
 - :see_no_evil: I'm need help building custom kernels
